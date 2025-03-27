@@ -7,7 +7,7 @@
   components:
   - type: Sprite
     drawdepth: 4
-    sprite: Objects/Fun/Tabletop/Spacessonne/meeples.rsi
+    sprite: Objects/Fun/Tabletop/Carcassonne/meeples.rsi
     state: normal
     color: "#FFFFFFFF"
   - type: Rotatable
